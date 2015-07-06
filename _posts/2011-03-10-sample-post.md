@@ -25,19 +25,19 @@ image:
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-# Heading 1
+# About Me
 
-## Heading 2
+## stuff
 
-### Heading 3
+### stuff
 
-#### Heading 4
+#### stuff
 
-##### Heading 5
+##### stuff
 
-###### Heading 6
+###### stuff
 
-### Body text
+### this is the body of this post. I cannot think of anything specific to write. 
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
@@ -50,7 +50,7 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 
 ### Blockquotes
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+> I'm so smart. I have a fancy quote.
 
 ## List Types
 
