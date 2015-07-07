@@ -14,7 +14,7 @@ Minimal Mistakes is responsive Jekyll theme with large featured images and solid
 
 ## Family
 
-![family_photo](family_photo.JPG)
+![family_photo]({{site.url}}/images/family_photo.JPG)
 
 ## Hobbies
 
