@@ -4,10 +4,10 @@ title: About Me
 tags: [about]
 modified: 2015
 comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+image: ![Lake Sunset]({{site.url}}/images/lkn-sunset.jpg)
+  feature: lkn-sunset.jpg
+  credit: me
+  creditlink: 
 ---
 
 Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
