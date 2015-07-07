@@ -18,7 +18,10 @@ Minimal Mistakes is responsive Jekyll theme with large featured images and solid
 
 ## Hobbies
 
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Volleyball
+* Vacationing at the beach
+* Spending time with family and friends
+* Staying active
+* Reading
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
