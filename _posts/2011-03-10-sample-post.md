@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample Post
+title: About Me
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
+modified: 2015-07-06
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 image:
@@ -21,34 +21,23 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## HTML Elements
+## About Me
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Below is just about everything you'll need to know about me!
 
-# About Me
-
-## stuff
-
-### stuff
-
-#### stuff
-
-##### stuff
-
-###### stuff
 
 ### this is the body of this post. I cannot think of anything specific to write. 
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+I have hobbies and a favorite color.
 
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .image-pull-right}
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+*This is emphasized*. 
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
 
-### Blockquotes
+
+### Favorite Quote
 
 > I'm so smart. I have a fancy quote.
 

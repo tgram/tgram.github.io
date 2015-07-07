@@ -4,7 +4,7 @@ author: Alexandre Dumas
 editor: Taylor Gram
 date-published: 1998
 date-edited: 2015-07-06
-layout: default
+layout: page.html
 ---
 Project Gutenberg's The Count of Monte Cristo, by Alexandre Dumas, Pere
 
