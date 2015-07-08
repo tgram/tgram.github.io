@@ -24,4 +24,8 @@ This is a page about me and the people closest to me.
 * Staying active
 * Reading
 
+## Friends
+
+
+
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
