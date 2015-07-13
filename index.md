@@ -4,7 +4,7 @@ title: My Website
 excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: ocean.jpg
+  feature: ocean2.jpg
   credit: 
   creditlink: 
 ---
