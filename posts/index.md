@@ -3,7 +3,7 @@ layout: post-index
 title: All Posts
 excerpt: "A List of Posts"
 image:
-  feature: lkn-sunset.jpg
+  feature: denver-sunset.JPG
   credit: 
   creditlink: 
 ---
