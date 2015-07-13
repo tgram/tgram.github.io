@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Taylor Gram
-  avatar: ![Bio Photo]({{site.url}}/images/my-bio-photo.jpg)
+  avatar: my-bio-photo.jpg
   bio: "I am a current undergraduate student at the University of North Carolina at Chapel Hill. I plan to graduate in 2017 with a B.S. in Information Science."
   email: tgram@live.unc.edu
   disqus-shortname: 
