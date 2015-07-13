@@ -5,9 +5,9 @@ tags: [about]
 modified: 2015
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: lkn-sunset2.jpg
+  credit: 
+  creditlink: 
 ---
 
 This is a page about me and the people closest to me.
